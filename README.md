@@ -1,6 +1,8 @@
 # Unlimited Wordle
 This is a unlmited Wordle game that was made by Replit. I have made some changes to the dictionary.js
 
+# Play the game:
+https://Wordle-Remix-2.jaycesagvold1.repl.co
 
 ## Code Use
 
